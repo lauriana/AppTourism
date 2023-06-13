@@ -21,12 +21,19 @@ A tabela abaixo apresenta todas as tecnologias e ferramentas que foram utilizada
 | API Geolocation | 1.78.2  | [Documentação](https://developers.google.com/maps/documentation/geolocation/overview?hl=pt-br)  | API que fornece informações de localização geográfica.|
 | Canva | -  | [Canva](https://www.canva.com/pt_br/) | Realizar edição de fotos e artes para o aplicativo. |
 | Draw.io | -  | [Draw.io](https://app.diagrams.net/)  | Editor que permite a criação de diagramas.|
-| Content Cell | Content Cell  | Content Cell  |                   |
-| Content Cell | Content Cell  | Content Cell  |                   |
-| Content Cell | Content Cell  | Content Cell  |                   |
-| Content Cell | Content Cell  | Content Cell  |                   |
-| Content Cell | Content Cell  | Content Cell  |                   |
-| Content Cell | Content Cell  | Content Cell  |                   |
-| Content Cell | Content Cell  | Content Cell  |                   |
+| Express | 4.18.2  | [Express](https://expressjs.com/pt-br/)  | Gerenciar requisições de diferentes verbos HTTP em diferentes URLs. |
+| Flutter | 3.10.2 | [FLutter](https://flutter.dev/)  | Framework da linguagem de programação “Dart” para o desenvolvimento do app.  |
+| Flutter Flow | -  | [Flutter Flow](https://app.flutterflow.io/)  | Ferramenta de design e prototipagem. |
+| Git | 2.40.1  | [Git](https://git-scm.com/)  | Ferramenta de versionamento de código. |
+| GitHub | 2.40.1  | [GitHub](https://github.com/)  | Ferramenta de hospedagem de código fonte. |
+| LucidChart | -  | [LucidChart](https://www.lucidchart.com/pages/pt)  | Ferramenta que permite a criação e edição de diagramas. |
+| Mindmeister | -  | [Mindmeister](https://www.mindmeister.com/)  | Ferramenta de mapeamento e organização de ideias. |
+| MySQL Workbench | 8.0.32 | [MYSQL WorkBench](https://www.mysql.com/)  | Gerenciador de Banco de Dados. |
+| NodeJs | 18.16.0 | [NodeJs](https://nodejs.org/en)  | Execução de aplicações desenvolvidas com a linguagem de forma autônoma, sem depender de um navegador. |
+| NPM | 9.5.0  | [NPM](https://www.npmjs.com/)  | Gerenciador de pacotes para o ecossistema NodeJs. |
+| Trello | -  | [Trello](https://trello.com/)  | Ferramenta de gerenciamento de projetos e tarefas. |
+| Visual Studio Code | 1.78.2  | [Visual Studio Code](https://code.visualstudio.com/)  | Editor de código-fonte altamente personalizável. |
+
+
 
 
