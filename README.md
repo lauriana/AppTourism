@@ -1,7 +1,4 @@
 # Tourism App - Pinhais
-
-A new Flutter project.
-
 ## Resumo
 
 O turismo tem sido uma área de grande movimento no Brasil nos últimos anos. De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), só o estado do Paraná, recebeu 4,4 milhões de turistas em 2021, movimentando cerca de R$ 5,8 bilhões, o que representa um aumento de 23% em relação ao ano anterior. No Paraná, os principais destinos turísticos são as cidades históricas de Morretes e Antonina, Foz do Iguaçu, Matinhos, Guaratuba e a capital Curitiba (IBGE, 2023). Além disso, o turismo de aventura, o ecoturismo e o turismo rural são bastante populares no estado. A cidade de Pinhais, na região metropolitana de Curitiba, tem se tornado cada vez mais atrativa aos turistas. Fundada em 1992, a cidade conta com diversos pontos turísticos interessantes, além de suas belezas naturais que chamam a atenção. 
