@@ -13,3 +13,75 @@ Diante desse cenário, o Instituto Federal do Paraná (IFPR) - Câmpus Pinhais e
 Espera-se que esse aplicativo proporcione uma experiência completa e interativa aos usuários, conectando-os com as belezas e atrações de Pinhais, facilitando sua visita e incentivando o turismo sustentável na região. 🌟🔍🌳🚲
 
 ## Materiais e Métodos
+
+A tabela abaixo apresenta todas as tecnologias e ferramentas que foram utilizadas para a realização do desenvolvimento do Aplicativo de Turismo para a Prefeitura de Pinhais.
+
+Tabela 1 - Tecnologias e Ferramentas
+Ferramenta
+Versão
+Localização
+Descrição de uso
+API Geolocation
+1.78.2
+Documentação
+API que fornece informações de localização geográfica. 
+Canva
+-
+https://www.canva.com/pt_br/
+Realizar edição de fotos e artes para o aplicativo.
+Draw.io
+-
+https://app.diagrams.net/
+Editor que permite a criação de diagramas.
+Express
+4.18.2
+https://expressjs.com/pt-br/
+Gerenciar requisições de diferentes verbos HTTP em diferentes URLs.
+Flutter
+3.10.2
+
+https://flutter.dev/
+Framework da linguagem de programação “Dart” para o desenvolvimento do app.
+Flutter Flow
+-
+https://app.flutterflow.io/
+Ferramenta de design e prototipagem.
+Git
+2.40.1
+https://git-scm.com/
+Ferramenta de versionamento de código.
+GitHub
+-
+https://github.com/
+Ferramenta de hospedagem de código fonte.
+LucidChart
+-
+https://www.lucidchart.com/pages/pt
+Ferramenta que permite a criação e edição de diagramas.
+Mindmeister
+-
+https://www.mindmeister.com/
+Ferramenta de mapeamento e organização de ideias.
+MySQL Workbench
+8.0.32
+https://www.mysql.com/
+Gerenciador de Banco de Dados.
+
+NodeJs
+18.16.0
+
+https://nodejs.org/en
+Execução de aplicações desenvolvidas com a linguagem de forma autônoma, sem depender de um navegador.
+NPM
+9.5.0
+https://www.npmjs.com/
+Gerenciador de pacotes para o ecossistema NodeJs
+Trello
+-
+https://trello.com/
+Ferramenta de gerenciamento de projetos e tarefas.
+Visual Studio Code
+1.78.2
+https://code.visualstudio.com/
+Editor de código-fonte altamente personalizável.
+
