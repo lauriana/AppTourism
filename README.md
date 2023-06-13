@@ -18,8 +18,8 @@ A tabela abaixo apresenta todas as tecnologias e ferramentas que foram utilizada
 
 |  Ferramenta     |    Versão     | Localização  | Descrição de Uso  |
 | -----------     | ------------- | ------------ |  -------------    |
-| API Geolocation | 1.78.2  | | [Documebntação](https://developers.google.com/maps/documentation/geolocation/overview?hl=pt-br)  | API que fornece informações de localização geográfica.|
-| Content Cell | Content Cell  | | Content Cell  |                   |
+| API Geolocation | 1.78.2  | [Documentação](https://developers.google.com/maps/documentation/geolocation/overview?hl=pt-br)  | API que fornece informações de localização geográfica.|
+| Canva | -  | | Content Cell  | [Canva](https://www.canva.com/pt_br/) | Realizar edição de fotos e artes para o aplicativo. 
 | Content Cell | Content Cell  | | Content Cell  |                   |
 | Content Cell | Content Cell  | | Content Cell  |                   |
 | Content Cell | Content Cell  | | Content Cell  |                   |
