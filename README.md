@@ -22,7 +22,7 @@ A tabela abaixo apresenta todas as tecnologias e ferramentas que foram utilizada
 | Canva | -  | [Canva](https://www.canva.com/pt_br/) | Realizar edição de fotos e artes para o aplicativo. |
 | Draw.io | -  | [Draw.io](https://app.diagrams.net/)  | Editor que permite a criação de diagramas.|
 | Express | 4.18.2  | [Express](https://expressjs.com/pt-br/)  | Gerenciar requisições de diferentes verbos HTTP em diferentes URLs. |
-| Flutter | 3.10.2 | [FLutter](https://flutter.dev/)  | Framework da linguagem de programação “Dart” para o desenvolvimento do app.  |
+| Flutter | 3.10.2 | [Flutter](https://flutter.dev/)  | Framework da linguagem de programação “Dart” para o desenvolvimento do app.  |
 | Flutter Flow | -  | [Flutter Flow](https://app.flutterflow.io/)  | Ferramenta de design e prototipagem. |
 | Git | 2.40.1  | [Git](https://git-scm.com/)  | Ferramenta de versionamento de código. |
 | GitHub | 2.40.1  | [GitHub](https://github.com/)  | Ferramenta de hospedagem de código fonte. |
@@ -33,6 +33,33 @@ A tabela abaixo apresenta todas as tecnologias e ferramentas que foram utilizada
 | NPM | 9.5.0  | [NPM](https://www.npmjs.com/)  | Gerenciador de pacotes para o ecossistema NodeJs. |
 | Trello | -  | [Trello](https://trello.com/)  | Ferramenta de gerenciamento de projetos e tarefas. |
 | Visual Studio Code | 1.78.2  | [Visual Studio Code](https://code.visualstudio.com/)  | Editor de código-fonte altamente personalizável. |
+
+Este trabalho foi planejado visando uma melhor divulgação do setor turístico de Pinhais. 📚📊💼📍
+
+Para tal objetivo, foram realizadas pesquisas bibliográficas em artigos que abordam temas como turismo e aplicativos, contendo análises de como eles podem contribuir para o crescimento do excursionismo e detalhes a respeito das principais questões necessárias para que aplicações móveis possam desempenhar sua função de maneira eficiente. Por esse motivo, o Aplicativo de Turismo para a cidade de Pinhais tem por meta viabilizar o acesso às informações referentes aos pontos turísticos da cidade, permitindo a interação das pessoas por meio de avaliações e comentários. 🔍📱💬💡
+
+Ademais, foram conduzidas pesquisas sobre os principais meios de promoção do setor em questão, a fim de identificar os aspectos primordiais a serem aprimorados. Essa análise foi conduzida seguindo o método proposto por Morrison, Taylor e Douglas (2008 apud MILLS; MORRISON, 2002, p. 233-255) para análise de sites específicos da área de turismo, adaptado para aplicativos. 📊📈🔍
+
+A avaliação é realizada mediante atribuição de notas de um a cinco para os seguintes aspectos: desempenho técnico, facilidade de utilização, atratividade, eficácia de marketing, popularidade, assistência em planejamento e conformidade legal. Essas notas são atribuídas com base na quantidade de áreas de melhoria identificadas em cada aspecto. A nota máxima é dada quando não são encontrados pontos para aprimoramento. É importante frisar que a pontuação de cada aspecto é definida através de uma avaliação de diversos atributos, seguindo o mesmo critério mencionado anteriormente. A nota do aspecto é obtida por meio da média aritmética de todos os atributos correspondentes. Ao final, as notas são somadas para obter a pontuação final da aplicação, permitindo a avaliação de sua efetividade. 📝📈🌟
+
+Como método de desenvolvimento, foi escolhido o Modelo Incremental, do livro "Engenharia de Software" (SOMMERVILLE, 2011, p. 21-22). Esse método foi projetado para que a entrega e desenvolvimento de um grande projeto aconteça em pequenas partes, em que cada uma delas é apresentada ao cliente no começo e ao final do seu desenvolvimento, para que haja uma análise e avaliação do produto. Seguindo esse modelo, o projeto pode ser realizado de maneira satisfatória, alcançando todas as expectativas do usuário final. 🛠️🔍🚀
+
+Abaixo, apresentamos as principais etapas do Modelo Incremental:
+
+- Descrição preliminar: engloba a concepção do sistema, elaboração de protótipos, esboços, conceitos e planejamento. É uma fase de exploração e inovação que visa estabelecer os principais objetivos e funcionalidades do sistema.
+
+- Detalhamento: são listadas e determinadas minuciosamente as exigências do sistema. Isso engloba a criação de registros, como descrições de requisitos funcionais e não-funcionais, cenários de uso, padrões de qualidade, entre outros.
+
+- Implementação: nesta fase, o avanço é construído com base nos requisitos estabelecidos previamente. As tarefas envolvem programação, testes de unidades, integração e configuração do ambiente de desenvolvimento.
+
+- Avaliação: o avanço é avaliado pelo cliente com relação aos requisitos, descrições e necessidades específicas dele. Isso abrange testes de aceitação, análise de código, verificação da documentação, entre outras atividades. 
+
+- Versão primária: é exibida ao cliente a primeira iteração do sistema. Isso possibilita que eles avaliem o sistema em um ambiente de produção, identifiquem questões e forneçam comentários para as próximas fases. 
+
+- Versão intermediária: à medida que o processo avança, são incorporadas novas capacidades ao sistema. Cada avanço realizado é avaliado e disponibilizado aos usuários, resultando em versões intermediárias do sistema.
+
+- Produto concluído: nessa fase, todas as funcionalidades planejadas são desenvolvidas e o sistema está pronto para ser lançado oficialmente.
+
 
 
 
