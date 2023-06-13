@@ -1,4 +1,4 @@
-# Tourism App - Pinhais
+# Tourism App - Pinhais 📱
 
 ➡️ O turismo tem sido uma área de grande movimento no Brasil nos últimos anos. De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), só o estado do Paraná recebeu 4,4 milhões de turistas em 2021, movimentando cerca de R$ 5,8 bilhões, o que representa um aumento de 23% em relação ao ano anterior. 🌍💼💰
 
