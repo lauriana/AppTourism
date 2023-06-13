@@ -12,3 +12,4 @@ Diante desse cenário, o Instituto Federal do Paraná (IFPR) - Câmpus Pinhais e
 
 Espera-se que esse aplicativo proporcione uma experiência completa e interativa aos usuários, conectando-os com as belezas e atrações de Pinhais, facilitando sua visita e incentivando o turismo sustentável na região. 🌟🔍🌳🚲
 
+# Materiais e Métodos
