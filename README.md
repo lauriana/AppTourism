@@ -61,7 +61,7 @@ Abaixo, apresentamos as principais etapas do Modelo Incremental:
 - Produto concluído: nessa fase, todas as funcionalidades planejadas são desenvolvidas e o sistema está pronto para ser lançado oficialmente.
 
 
-<img src="https://cdn.unoparead.com.br/contents/d7879c3e-e697-4fe1-b4e4-7491dd0c5b43/assets/img/Imagem3.png" width="300px">
+<img src="https://cdn.unoparead.com.br/contents/d7879c3e-e697-4fe1-b4e4-7491dd0c5b43/assets/img/Imagem3.png" width="1000px">
 
 
 
