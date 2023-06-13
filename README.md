@@ -65,7 +65,8 @@ Abaixo, apresentamos as principais etapas do Modelo Incremental:
 <img src="https://cdn.unoparead.com.br/contents/d7879c3e-e697-4fe1-b4e4-7491dd0c5b43/assets/img/Imagem3.png" width="1000px">
 
 
-É válido destacar que as fases do desenvolvimento incremental não requerem obrigatoriamente uma sequência específica, permitindo a ocorrência de múltiplos ciclos de versões intermediárias antes da entrega da versão final. A principal motivação para a adoção desse método de desenvolvimento decorreu da colaboração estabelecida com a Prefeitura de Pinhais, que demandava a criação de um aplicativo prático e funcional para atender às demandas específicas do município. O retorno fornecido pelo órgão governamental foi considerado fundamental para direcionar a definição das funcionalidades relevantes para eles.
+É válido destacar que as fases do desenvolvimento incremental não requerem obrigatoriamente uma sequência específica, permitindo a ocorrência de múltiplos ciclos de versões intermediárias antes da entrega da versão final. 
+A principal motivação para a adoção desse método de desenvolvimento decorreu da colaboração estabelecida com a Prefeitura de Pinhais, que demandava a criação de um aplicativo prático e funcional para atender às demandas específicas do município. O retorno fornecido pelo órgão governamental foi considerado fundamental para direcionar a definição das funcionalidades relevantes para eles.
 
 
 
