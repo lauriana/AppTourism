@@ -78,7 +78,7 @@ Todos os documentos e diagramas feitos para o desenvolvimento do aplicativo pode
 <img src="https://cdn.discordapp.com/attachments/1054974776256495656/1118332383234633789/WhatsApp_Image_2023-06-13_at_21.08.57.jpeg">
 <img src="https://cdn.discordapp.com/attachments/1054974776256495656/1118332401647632464/WhatsApp_Image_2023-06-13_at_21.09.25.jpeg">
 <img src="https://cdn.discordapp.com/attachments/1054974776256495656/1118332415048421416/WhatsApp_Image_2023-06-13_at_21.09.46.jpeg">
---------------------------------------------------------------------------------------------------------------------------------------------
+
 *As imagens não são definitivas! Ainda haverão alterações!
 
 
