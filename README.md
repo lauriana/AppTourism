@@ -74,7 +74,7 @@ Todos os documentos e diagramas feitos para o desenvolvimento do aplicativo pode
 
 # Fotos do Aplicativo
 
-<img src:"https://web.whatsapp.com/9b1892e8-0a37-4a22-950f-1d9eaaff643d.png">
+<img src="https://web.whatsapp.com/9b1892e8-0a37-4a22-950f-1d9eaaff643d.png">
 
 
 
