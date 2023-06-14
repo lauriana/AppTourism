@@ -70,7 +70,7 @@ A principal motivação para a adoção desse método de desenvolvimento decorre
 
 # Documentos e Diagramas do Aplicativo
 
-Todos os documentos e diagramas feitos para o desenvolvimento do aplicativo podem ser encontrado neste link: https://drive.google.com/drive/u/0/folders/1UlD0bwnvcTsfnT_iw7B9biEYEFK551-6 
+Todos os documentos e diagramas feitos para o desenvolvimento do aplicativo podem ser encontrados neste link: https://drive.google.com/drive/u/0/folders/1UlD0bwnvcTsfnT_iw7B9biEYEFK551-6 
 
 # Fotos do Aplicativo
 
