@@ -228,7 +228,7 @@ A principal motivação para a adoção desse método de desenvolvimento decorre
 
 #
 
-b. Resultados esperados com o projeto desenvolvido:
+a. Resultados esperados com o projeto desenvolvido:
 
 Com isso, um aplicativo de turismo local em Pinhais pode trazer diversas contribuições sociais e científicas, conforme destacado abaixo:
 
@@ -246,7 +246,7 @@ Essas contribuições sociais e científicas destacam o potencial positivo que u
 
 #
 
-c. Recursos para monitoração e acompanhamento do projeto:
+b. Recursos para monitoração e acompanhamento do projeto:
 
 Os recursos para a monitoração e acompnhamento do projeto pode ser encontraodos através do GitHub!
 
