@@ -152,7 +152,7 @@ Mitigação: Identificar os diferenciais do aplicativo, como informações exclu
 
 # 4. Organização do Projeto
 a. Cronograma:
-- O cronograma do projeto pode ser encontrado neste [link](https://trello.com/b/TjFbAQCM/2023-tourism-app-pinhais)
+- O cronograma do projeto pode ser encontrado neste [link](https://trello.com/b/TjFbAQCM/2023-tourism-app-pinhais).
 
 b. Dependência entre atividades e duração para cada atividade:
 - A maior depedência para a realização das atividades está na espera do envio de dados por parte do cliente.
@@ -164,7 +164,7 @@ João Meneses: Responsável pela prototipação, desenvolvimento e versionamento
 Rafael Coelho: Responsável pela prototipação, desenvolvimento e versionamento do código-fonte da aplicação Incubado também de desenvolver o artigo para o TCC.
 
 c. Link do trello/jira
-[Trello](https://trello.com/b/TjFbAQCM/2023-tourism-app-pinhais)
+- [Trello](https://trello.com/b/TjFbAQCM/2023-tourism-app-pinhais)
 
 # 5. Conclusão
 a. Materiais e Métodos:
