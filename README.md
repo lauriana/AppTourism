@@ -68,6 +68,14 @@ Abaixo, apresentamos as principais etapas do Modelo Incremental:
 É válido destacar que as fases do desenvolvimento incremental não requerem obrigatoriamente uma sequência específica, permitindo a ocorrência de múltiplos ciclos de versões intermediárias antes da entrega da versão final. 
 A principal motivação para a adoção desse método de desenvolvimento decorreu da colaboração estabelecida com a Prefeitura de Pinhais, que demandava a criação de um aplicativo prático e funcional para atender às demandas específicas do município. O retorno fornecido pelo órgão governamental foi considerado fundamental para direcionar a definição das funcionalidades relevantes para eles.
 
+# Documentos e Diagramas do Aplicativo
+
+Todos os documentos e diagramas feitos para o desenvolvimento do aplicativo podem ser encontrado neste link: https://drive.google.com/drive/u/0/folders/1UlD0bwnvcTsfnT_iw7B9biEYEFK551-6 
+
+# Fotos do Aplicativo
+
+
+
 
 
 
