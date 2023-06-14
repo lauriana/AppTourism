@@ -8,7 +8,7 @@ a. Identidade Visual do projeto:
 b. Redes Sociais do Projeto
 - Em andamento...
 
-b. Equipe:
+c. Equipe:
 - Equipe Innovatech
 
 Integrantes: 
@@ -16,29 +16,12 @@ Integrantes:
 - João Meneses
 - Rafael Coelho
 
-c. Data criação do documento:
+d. Data criação do documento:
 - 13/06/2023
 
 # 2. Introdução
-OBJETIVOS
-2.1 Objetivo geral
-Facilitar e melhorar a experiência dos turistas que visitam a cidade de Pinhais, oferecendo uma experiência satisfatória com o aplicativo e informações atualizadas com recursos úteis para a sua estadia, como detalhes sobre pontos turísticos, eventos, restaurantes etc.
 
-2.2 - Objetivos específicos
-- Promover as atrações turísticas de Pinhais: destacar as principais atrações turísticas da cidade, apresentando informações detalhadas sobre cada uma delas e incentivando os usuários a conhecê-las.
-- Facilitar o planejamento de viagens: fornecer informações úteis para os turistas que desejam visitar Pinhais, como restaurantes, transporte e atividades de lazer.
-- Estimular a interação entre turistas e moradores locais com avaliações: criar um contato virtual entre turistas e moradores locais, permitindo que os turistas conheçam melhor a cidade por meio das experiências e dicas dos moradores.
-- Incentivar o turismo sustentável: incentivar o turismo sustentável em Pinhais, divulgando práticas sustentáveis e conscientizando os turistas sobre a importância de preservar o meio ambiente e a cultura local.
-
-b. Escopo do projeto
-• Descrição do produto (MVP) do projeto
-• Principais entregas do projeto
-• Objetivos do projeto (itens quantificáveis que determinam se o projeto foi um sucesso ou não)
-• Critérios de aceitação do produto
-
-
-c. Link da Prototipação
-
+## Resumo
 
 ➡️ O turismo tem sido uma área de grande movimento no Brasil nos últimos anos. De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), só o estado do Paraná recebeu 4,4 milhões de turistas em 2021, movimentando cerca de R$ 5,8 bilhões, o que representa um aumento de 23% em relação ao ano anterior. 🌍💼💰
 
@@ -52,7 +35,139 @@ Diante desse cenário, o Instituto Federal do Paraná (IFPR) - Câmpus Pinhais e
 
 Espera-se que esse aplicativo proporcione uma experiência completa e interativa aos usuários, conectando-os com as belezas e atrações de Pinhais, facilitando sua visita e incentivando o turismo sustentável na região. 🌟🔍🌳🚲
 
-## Materiais e Métodos
+#
+
+a. Objetivos
+
+2.1 Objetivo geral
+Facilitar e melhorar a experiência dos turistas que visitam a cidade de Pinhais, oferecendo uma experiência satisfatória com o aplicativo e informações atualizadas com recursos úteis para a sua estadia, como detalhes sobre pontos turísticos, eventos, restaurantes etc.
+
+2.2 - Objetivos específicos
+- Promover as atrações turísticas de Pinhais: destacar as principais atrações turísticas da cidade, apresentando informações detalhadas sobre cada uma delas e incentivando os usuários a conhecê-las.
+- Facilitar o planejamento de viagens: fornecer informações úteis para os turistas que desejam visitar Pinhais, como restaurantes, transporte e atividades de lazer.
+- Estimular a interação entre turistas e moradores locais com avaliações: criar um contato virtual entre turistas e moradores locais, permitindo que os turistas conheçam melhor a cidade por meio das experiências e dicas dos moradores.
+- Incentivar o turismo sustentável: incentivar o turismo sustentável em Pinhais, divulgando práticas sustentáveis e conscientizando os turistas sobre a importância de preservar o meio ambiente e a cultura local.
+
+b. Escopo do projeto
+
+📱 O MVP (Minimum Viable Product - Produto Mínimo Viável) do aplicativo de turismo para Pinhais seria uma versão inicial funcional que oferece as seguintes funcionalidades:
+
+- Informações básicas sobre os pontos turísticos: Descrições breves, imagens e localização dos principais pontos turísticos em Pinhais.
+
+- Navegação básica: Um mapa interativo que permite aos usuários visualizarem os pontos turísticos marcados e obterem direções simples para chegar a esses locais.
+
+- Listagem de restaurantes e serviços: Uma lista básica de restaurantes e serviços próximos aos pontos turísticos, incluindo informações de contato e classificações dos usuários.
+
+#
+
+c. Principais entregas do projeto:
+
+- 🎨 Projeto de interface de usuário (UI) e experiência do usuário (UX): Isso inclui o design visual, a arquitetura de informação e a navegação do aplicativo, visando proporcionar uma experiência intuitiva e agradável para os usuários.
+
+- 🔨 Desenvolvimento do aplicativo: A implementação das funcionalidades essenciais do aplicativo, como a exibição de informações dos pontos turísticos, o mapa interativo e a listagem de restaurantes e serviços.
+
+- 📊 Integração de dados: Coleta e organização das informações sobre pontos turísticos, restaurantes e serviços em Pinhais, para serem exibidas corretamente no aplicativo.
+
+#
+
+d. Objetivos do projeto (itens quantificáveis que determinam se o projeto foi um sucesso ou não):
+
+- 📈 Número de downloads e instalações do aplicativo: O objetivo seria alcançar um número específico de downloads, refletindo o interesse dos turistas em utilizar o aplicativo.
+
+- 🌟 Avaliações e feedback dos usuários: O objetivo seria obter avaliações positivas dos usuários, com base em sua experiência de uso do aplicativo. Isso pode ser medido por meio de classificações e comentários nas lojas de aplicativos.
+
+- 📲 Engajamento dos usuários: O objetivo seria que os usuários utilizassem o aplicativo regularmente, consultando informações, interagindo com os recursos e compartilhando suas experiências. Pode ser medido por métricas como tempo médio de uso do aplicativo, frequência de abertura e ações realizadas.
+
+#
+
+e. Critérios de aceitação do produto:
+
+- ✅ O aplicativo deve exibir informações corretas e atualizadas sobre os pontos turísticos, restaurantes e serviços em Pinhais.
+
+- 🗺️ A navegação no mapa interativo deve ser precisa e fornecer direções confiáveis para os pontos turísticos selecionados.
+
+- 🎨 O design e a usabilidade do aplicativo devem ser intuitivos, garantindo uma experiência agradável para os usuários.
+
+- 💻 O aplicativo deve ser estável e responsivo em diferentes dispositivos móveis.
+
+- 🍽️ Os usuários devem ser capazes de encontrar facilmente informações relevantes sobre restaurantes e serviços próximos aos pontos turísticos.
+
+- 📸 O aplicativo deve permitir que os usuários classifiquem e comentem os pontos turísticos e compartilhem suas experiências nas redes sociais.
+
+Esses critérios de aceitação garantiriam que o produto atende às expectativas dos usuários, fornecendo informações precisas, uma experiência agradável e recursos úteis para os turistas que visitam Pinhais. 🌟🗺️✨
+
+#
+
+c. Link da Prototipação
+
+[Aqui](https://app.flutterflow.io/project/t-c-c-prefeitura-pkpyud), você pode encontrar o link do protótipo do projeto!
+
+# 3. Matriz de Riscos
+
+1. Atraso no desenvolvimento do aplicativo devido a problemas técnicos inesperados. ⏱️💻
+
+Impacto: Pode afetar a entrega do projeto dentro do prazo estabelecido. 🚫⏰
+Probabilidade: Média. 📉
+Mitigação: Realizar uma análise detalhada dos requisitos técnicos e estabelecer prazos realistas. 📝📆 Manter uma comunicação eficiente entre a equipe de desenvolvimento para identificar e resolver problemas técnicos rapidamente. 📞👥
+
+2. Mudanças frequentes nos requisitos do aplicativo durante o desenvolvimento. 🔄✏️
+
+Impacto: Pode resultar em atrasos, aumento de custos e falta de alinhamento com as expectativas dos usuários. 🚫⏰💰
+Probabilidade: Alta. 📈
+Mitigação: Estabelecer um processo eficaz de gerenciamento de mudanças, com a participação ativa dos stakeholders. 📑🤝 Realizar revisões regulares dos requisitos e obter aprovações formais para alterações significativas. ✅🔒
+
+#
+
+Riscos Técnicos:
+
+1. Incompatibilidade entre diferentes plataformas móveis. 📱🚫🔄
+
+Impacto: Restrição de alcance para os usuários que utilizam sistemas operacionais diferentes. 🌍🔒
+Probabilidade: Média. 📉
+Mitigação: Realizar testes extensivos em diferentes plataformas móveis para identificar e resolver problemas de compatibilidade. 🧪✅ Utilizar frameworks e bibliotecas multiplataforma para facilitar o desenvolvimento para várias plataformas. 🛠️📲
+
+2. Vulnerabilidades de segurança no aplicativo. 🛡️🔓
+
+Impacto: Comprometimento dos dados dos usuários e danos à reputação do aplicativo. 🚫🔐💔
+Probabilidade: Alta. 📈
+Mitigação: Implementar práticas de segurança adequadas, como criptografia de dados, autenticação robusta e testes de penetração regulares. 🔒🔐 Manter-se atualizado sobre as melhores práticas de segurança e seguir diretrizes de segurança estabelecidas. 📚🔒
+
+#
+
+Riscos do Negócio:
+
+1. Baixa adesão dos turistas ao uso do aplicativo. 👥📉
+
+Impacto: Baixo retorno do investimento e falta de sucesso comercial. 💸🚫📉
+Probabilidade: Média. 📉
+Mitigação: Realizar pesquisas de mercado para entender as necessidades e preferências dos turistas. 📊🎯 Realizar campanhas de marketing eficazes para promover o aplicativo e incentivar sua adoção. 📣💥 Oferecer benefícios exclusivos aos usuários do aplicativo, como descontos em serviços ou ingressos. 🎁💯
+
+2. Concorrência de outros aplicativos de turismo já estabelecidos. 🏆📱💼
+
+Impacto: Dificuldade em conquistar uma parcela significativa do mercado e ganhar visibilidade. 🚫📈🌍
+Probabilidade: Alta. 📈
+Mitigação: Identificar os diferenciais do aplicativo, como informações exclusivas, recursos inovadores ou experiência personalizada. ✨🌟 Investir em estratégias de marketing direcionadas, destacando os benefícios únicos do aplicativo. 📣💎 Fornecer um suporte eficiente aos usuários e buscar parcerias com empresas locais para fortalecer a oferta de serviços. 🤝👥
+
+É importante monitorar esses riscos durante o projeto e ajustar as estratégias de mitigação conforme necessário. A gestão proativa de riscos ajudará a reduzir os impactos negativos e a aumentar a probabilidade de sucesso do aplicativo de turismo para Pinhais. 🚀👍
+
+# 4. Organização do Projeto
+a. Cronograma:
+- O cronograma do projeto pode ser encontrado neste [link](https://trello.com/b/TjFbAQCM/2023-tourism-app-pinhais)
+
+b. Dependência entre atividades e duração para cada atividade:
+- A maior depedência para a realização das atividades está na espera do envio de dados por parte do cliente.
+- O tempo de duração para cada atividade pode ser relativo, dependendo do que cada uma exige. Porém, em média, cada uma leva em torno de 1/2 dias para ser concluída com sucesso.
+
+c. Organização da Equipe:
+Alexandre Solyom: Responsável pela pesquisa e leitura de conteúdos que tratem o tema: Aplicativo e Turismo. Incubado também de desenvolver o artigo para o TCC.
+João Meneses: Responsável pela prototipação, desenvolvimento e versionamento do código-fonte da aplicação, postagens no GitHub e criação do README. Incubado também de desenvolver o artigo para o TCC.
+Rafael Coelho: Responsável pela prototipação, desenvolvimento e versionamento do código-fonte da aplicação Incubado também de desenvolver o artigo para o TCC.
+
+c. Link do trello/jira
+[Trello](https://trello.com/b/TjFbAQCM/2023-tourism-app-pinhais)
+
+# 5. Conclusão
+a. Materiais e Métodos:
 
 A tabela abaixo apresenta todas as tecnologias e ferramentas que foram utilizadas para a realização do desenvolvimento do Aplicativo de Turismo para a Prefeitura de Pinhais.
 
@@ -101,18 +216,40 @@ Abaixo, apresentamos as principais etapas do Modelo Incremental:
 - Produto concluído: nessa fase, todas as funcionalidades planejadas são desenvolvidas e o sistema está pronto para ser lançado oficialmente.
 
 
-# Etapas do Modelo Incremental	
+# 5.1 Etapas do Modelo Incremental	
 <img src="https://cdn.unoparead.com.br/contents/d7879c3e-e697-4fe1-b4e4-7491dd0c5b43/assets/img/Imagem3.png" width="1000px">
 
 
 É válido destacar que as fases do desenvolvimento incremental não requerem obrigatoriamente uma sequência específica, permitindo a ocorrência de múltiplos ciclos de versões intermediárias antes da entrega da versão final. 
 A principal motivação para a adoção desse método de desenvolvimento decorreu da colaboração estabelecida com a Prefeitura de Pinhais, que demandava a criação de um aplicativo prático e funcional para atender às demandas específicas do município. O retorno fornecido pelo órgão governamental foi considerado fundamental para direcionar a definição das funcionalidades relevantes para eles.
 
-# Documentos e Diagramas do Aplicativo
+#
+
+b. Resultados esperados com o projeto desenvolvido:
+
+Com isso, um aplicativo de turismo local em Pinhais pode trazer diversas contribuições sociais e científicas, conforme destacado abaixo:
+
+- 👉 Fomentar o turismo local: o aplicativo pode ajudar a promover o turismo em Pinhais, incentivando os visitantes a conhecerem a cidade e explorarem suas atrações turísticas. Isso pode trazer benefícios econômicos para a cidade, como o aumento da demanda por serviços de hospedagem, alimentação e transporte. 💼💰🌍
+
+- 👉 Valorizar a cultura local: o aplicativo pode destacar as características culturais e históricas de Pinhais, contribuindo para a preservação da identidade local e para o fortalecimento da autoestima da população. 🏛️🎭🌆
+
+- 👉 Facilitar o acesso à informação: o aplicativo pode disponibilizar informações precisas e atualizadas sobre as atrações turísticas, eventos e serviços em Pinhais, ajudando os visitantes a planejarem melhor suas viagens e evitando que sejam enganados por informações incorretas ou desatualizadas. 📱📚🗺️
+
+- 👉 Gerar dados para estudos científicos: o aplicativo pode gerar dados sobre os interesses e comportamentos dos visitantes em relação ao turismo em Pinhais, o que pode ser útil para pesquisas científicas relacionadas ao turismo e ao desenvolvimento regional. 📊🔬🌐
+
+- 👉 Estimular a inovação: o desenvolvimento do aplicativo pode estimular a inovação tecnológica e o empreendedorismo na cidade, criando novas oportunidades de negócios e fortalecendo a economia local. 💡💻💼
+
+Essas contribuições sociais e científicas destacam o potencial positivo que um aplicativo de turismo pode trazer para Pinhais, impulsionando o turismo, preservando a cultura, facilitando o acesso à informação, gerando conhecimento e promovendo o desenvolvimento econômico. 🌟🌍📈
+
+c. Recursos para monitoração e acompanhamento do projeto:
+
+Os recursos para a monitoração e acompnhamento do projeto pode ser encontraodos através do GitHub!
+
+# 6. Documentos e Diagramas do Aplicativo
 
 Todos os documentos e diagramas feitos para o desenvolvimento do aplicativo podem ser encontrados neste link: https://drive.google.com/drive/u/0/folders/1UlD0bwnvcTsfnT_iw7B9biEYEFK551-6 
 
-# Fotos do Aplicativo
+# 7. Fotos do Aplicativo
 
 <img src="https://cdn.discordapp.com/attachments/1054974776256495656/1118332367543730297/WhatsApp_Image_2023-06-13_at_21.08.38.jpeg">
 <img src="https://cdn.discordapp.com/attachments/1054974776256495656/1118332383234633789/WhatsApp_Image_2023-06-13_at_21.08.57.jpeg">
