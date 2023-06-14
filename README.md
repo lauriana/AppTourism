@@ -6,10 +6,10 @@ a. Identidade Visual do projeto:
 <img src="https://cdn.discordapp.com/attachments/1054974776256495656/1118503401974681650/Logo_Prefeitura_1.jpg">
 
 b. Redes Sociais do Projeto
-Em andamento...
+- Em andamento...
 
 b. Equipe:
-Equipe Innovatech
+- Equipe Innovatech
 
 Integrantes: 
 - Alexandre Solyom
@@ -18,6 +18,27 @@ Integrantes:
 
 c. Data criação do documento:
 - 13/06/2023
+
+# 2. Introdução
+OBJETIVOS
+2.1 Objetivo geral
+Facilitar e melhorar a experiência dos turistas que visitam a cidade de Pinhais, oferecendo uma experiência satisfatória com o aplicativo e informações atualizadas com recursos úteis para a sua estadia, como detalhes sobre pontos turísticos, eventos, restaurantes etc.
+
+2.2 - Objetivos específicos
+- Promover as atrações turísticas de Pinhais: destacar as principais atrações turísticas da cidade, apresentando informações detalhadas sobre cada uma delas e incentivando os usuários a conhecê-las.
+- Facilitar o planejamento de viagens: fornecer informações úteis para os turistas que desejam visitar Pinhais, como restaurantes, transporte e atividades de lazer.
+- Estimular a interação entre turistas e moradores locais com avaliações: criar um contato virtual entre turistas e moradores locais, permitindo que os turistas conheçam melhor a cidade por meio das experiências e dicas dos moradores.
+- Incentivar o turismo sustentável: incentivar o turismo sustentável em Pinhais, divulgando práticas sustentáveis e conscientizando os turistas sobre a importância de preservar o meio ambiente e a cultura local.
+
+b. Escopo do projeto
+• Descrição do produto (MVP) do projeto
+• Principais entregas do projeto
+• Objetivos do projeto (itens quantificáveis que determinam se o projeto foi um sucesso ou não)
+• Critérios de aceitação do produto
+
+
+c. Link da Prototipação
+
 
 ➡️ O turismo tem sido uma área de grande movimento no Brasil nos últimos anos. De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), só o estado do Paraná recebeu 4,4 milhões de turistas em 2021, movimentando cerca de R$ 5,8 bilhões, o que representa um aumento de 23% em relação ao ano anterior. 🌍💼💰
 
