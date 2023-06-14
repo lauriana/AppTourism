@@ -244,6 +244,8 @@ Com isso, um aplicativo de turismo local em Pinhais pode trazer diversas contrib
 
 Essas contribuições sociais e científicas destacam o potencial positivo que um aplicativo de turismo pode trazer para Pinhais, impulsionando o turismo, preservando a cultura, facilitando o acesso à informação, gerando conhecimento e promovendo o desenvolvimento econômico. 🌟🌍📈
 
+#
+
 c. Recursos para monitoração e acompanhamento do projeto:
 
 Os recursos para a monitoração e acompnhamento do projeto pode ser encontraodos através do GitHub!
