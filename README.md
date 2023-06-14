@@ -101,7 +101,7 @@ Esses critérios de aceitação garantiriam que o produto atende às expectativa
 
 #
 
-c. Link da Prototipação
+f. Link da Prototipação
 
 [Aqui](https://app.flutterflow.io/project/t-c-c-prefeitura-pkpyud), você pode encontrar o link do protótipo do projeto!
 
