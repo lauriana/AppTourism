@@ -15,12 +15,21 @@ c. Equipe:
 - Equipe Innovatech
 
 Integrantes: 
-- Alexandre Solyom
-- João Meneses
-- Rafael Coelho
+- Alexandre Solyom - Estudante
+- João Meneses - Estudante
+- Rafael Coelho - Estudante
+
+Professor Orientador:
+
+- Ronan Assumpção Silva - Doutor em Informática 
 
 d. Data criação do documento:
 - 13/06/2023
+
+e. Professores Colaboradores:
+
+- Jeanine Geraldo Javarez - Doutora em Letras
+- Lauriana Paludo - Mestre em Computação Aplicada
 
 # 2. Introdução
 
