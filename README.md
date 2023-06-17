@@ -171,9 +171,12 @@ b. Dependência entre atividades e duração para cada atividade:
 - O tempo de duração para cada atividade pode ser relativo, dependendo do que cada uma exige. Porém, em média, cada uma leva em torno de 1/2 dias para ser concluída com sucesso.
 
 c. Organização da Equipe:
-Alexandre Solyom: Responsável pela pesquisa e leitura de conteúdos que tratem o tema: Aplicativo e Turismo. Incubado também de desenvolver o artigo para o TCC.
-João Meneses: Responsável pela prototipação, desenvolvimento e versionamento do código-fonte da aplicação, postagens no GitHub e criação do README. Incubado também de desenvolver o artigo para o TCC.
-Rafael Coelho: Responsável pela prototipação, desenvolvimento e versionamento do código-fonte da aplicação Incubado também de desenvolver o artigo para o TCC.
+
+| Nome           | Responsabilidades                                                                                                                                                                                                                                                                                                               |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Alexandre Solyom | Responsável pela pesquisa e leitura de conteúdos que tratem o tema: Aplicativo e Turismo. Incubado também de desenvolver o artigo para o TCC. |
+| João Meneses    | Responsável pela prototipação, desenvolvimento e versionamento do código-fonte da aplicação, postagens no GitHub e criação do README. Incubado também de desenvolver o artigo para o TCC.               |
+| Rafael Coelho   | Responsável pela prototipação, desenvolvimento e versionamento do código-fonte da aplicação. Incubado também de desenvolver o artigo para o TCC.                                                                                                 |
 
 c. Link do trello/jira
 - [Trello](https://trello.com/b/TjFbAQCM/2023-tourism-app-pinhais)
