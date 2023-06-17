@@ -112,7 +112,7 @@ Esses critérios de aceitação garantiriam que o produto atende às expectativa
 
 f. Link da Prototipação
 
-[Aqui](https://app.flutterflow.io/project/t-c-c-prefeitura-pkpyud), você pode encontrar o link do protótipo do projeto!
+[Aqui](https://app.flutterflow.io/preview/t-c-c-prefeitura-pkpyud?telaInicial), você pode encontrar o link do protótipo do projeto!
 
 # 3. Matriz de Riscos
 
