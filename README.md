@@ -181,7 +181,7 @@ c. Organização da Equipe:
 c. Link do trello/jira
 - [Trello](https://trello.com/b/TjFbAQCM/2023-tourism-app-pinhais)
 
-# 5. Conclusão
+# 5. Metodologia
 a. Materiais e Métodos:
 
 A tabela abaixo apresenta todas as tecnologias e ferramentas que foram utilizadas para a realização do desenvolvimento do Aplicativo de Turismo para a Prefeitura de Pinhais.
